@@ -1,16 +1,19 @@
-### Hi there 👋
+### Joaquin Romero, Tecnicas y herramientas 1
 
-<!--
-**joacoromeror00/joacoromeror00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Repositorio de Tecnicas y Herramientas Modernas
 
-Here are some ideas to get you started:
+Proyectos Realizados
+-CV realizado con Latex (Overleaf.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Traducción de un  capitulo de un libro de inglés a español sobre la descarbonizacón
+
+-creación de este Repositorio
+
+
+## Curriculum Vitae realizado con Overleaf
+
+[CV Joaquin Romero](https://github.com/joacoromeror00/joacoromeror00/blob/971133f784e7c8a1d4eb623d5798bd6761b59c8e/CV_JoaquinRomeroLatex.pdf)
+
+## Capitulo del libro
+
+[capitulo6](https://github.com/joacoromeror00/joacoromeror00/blob/971133f784e7c8a1d4eb623d5798bd6761b59c8e/capitulo6.pdf)
